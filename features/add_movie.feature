@@ -1,3 +1,5 @@
+
+
 Feature: User can manually add movie
 
 Scenario: Add a movie
